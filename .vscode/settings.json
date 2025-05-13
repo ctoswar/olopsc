@@ -1,0 +1,30 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "192.168.75.101",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "ctos",
+            "database": "users",
+            "username": "root",
+            "password": "gameclub11"
+        },
+        {
+            "previewLimit": 50,
+            "server": "192.168.75.101",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "PG Local",
+            "database": "postgres",
+            "username": "postgres",
+            "password": "Gameclub11",
+            "connectionTimeout": 30
+        }
+    ]
+}

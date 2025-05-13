@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "425127216542",
+    "project_id": "socorro-eda4c",
+    "storage_bucket": "socorro-eda4c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425127216542:android:b18f00aabb57d7231d828f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyAAlgs-rrXikqiyOuLXeHNSx34ZaZuxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
